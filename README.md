@@ -2,50 +2,51 @@
 
 ## A Multi-System Symbolic Convergence Theory
 
+Author: Kevin Mahan  
+Location: Las Vegas, Nevada  
+Contact: repos@khalisti.ai  
+
+---
+
+## Version
+
+CAF v1.0.0  
+Initial Theoretical Release
+
+Release Date: 2026  
+
+---
+
+## Overview
+
 Convergent Archetype Framework (CAF) is a theoretical meta-model designed to aggregate multiple symbolic classification systems into a unified structure for compatibility and trait convergence analysis.
 
 This framework does not implement code.
 
 It defines:
 
-- Structured scoring logic
-- Cross-system weighting theory
-- Trait convergence methodology
-- Normalized vs non-normalized modeling approaches
-- Confidence calibration based on data completeness
+- Structured scoring logic  
+- Cross-system weighting theory  
+- Trait convergence methodology  
+- Normalized vs non-normalized modeling approaches  
+- Confidence calibration based on data completeness  
 
-CAF is intended as a guiding architecture for researchers, model builders, and system designers developing fate models, compatibility systems, or symbolic convergence engines.
-
----
-
-# Purpose
-
-Most symbolic systems (Western astrology, Vedic astrology, Chinese zodiac, numerology, etc.) operate independently.
-
-CAF proposes:
-
-Cross-system agreement increases archetypal reinforcement.
-
-Cross-system disagreement identifies tension zones.
-
-Rather than choosing one system as dominant, CAF treats each as an independent classifier and measures convergence across them.
+CAF is intended as a guiding architecture for researchers, model builders, and system designers developing compatibility systems or symbolic convergence engines.
 
 ---
 
-# Systems Included
+# Systems Included (v1.0)
 
-CAF supports theoretical aggregation across:
+- Western Astrology  
+- Vedic Astrology (Jyotish)  
+- Chinese Zodiac  
+- Numerology  
+- Mayan Tzolkin  
+- Celtic Tree System  
+- Native Totem Systems  
+- Egyptian Archetypes  
 
-- Western Astrology
-- Vedic Astrology (Jyotish)
-- Chinese Zodiac
-- Numerology
-- Mayan Tzolkin
-- Celtic Tree System
-- Native Totem Systems
-- Egyptian Archetypes
-
-Additional systems may be appended without structural modification.
+All systems are treated as independent classifiers.
 
 ---
 
@@ -53,45 +54,43 @@ Additional systems may be appended without structural modification.
 
 ## 1. Domain Independence Principle
 
-Each symbolic system functions as an independent classification engine.
-
+Each symbolic system functions independently.  
 No domain is assumed superior.
 
 Each produces:
-- Compatibility score
-- Trait mapping
-- Confidence factor
+
+- Compatibility score  
+- Trait mapping  
+- Confidence factor  
 
 ---
 
 ## 2. Normalized Convergence Model
 
 Used when:
-- Data completeness varies
-- Domains differ in structural resolution
 
-Formula (conceptual):
+- Data completeness varies  
+- Domains differ in structural resolution  
 
-FinalScore =
-Sum(DomainScore × DomainWeight) /
+Conceptual Formula:
+
+FinalScore =  
+Sum(DomainScore × DomainWeight) /  
 Sum(ActiveDomainWeights)
-
-Prevents dominance from incomplete systems.
 
 ---
 
 ## 3. Non-Normalized Structural Model
 
 Used when:
-- Full data is present
-- Domain confidence is high
 
-Formula:
+- Full data is present  
+- Domain confidence is high  
 
-FinalRawScore =
+Conceptual Formula:
+
+FinalRawScore =  
 Sum(DomainScore × DomainWeight)
-
-Preserves structural signal strength.
 
 ---
 
@@ -99,31 +98,10 @@ Preserves structural signal strength.
 
 If multiple independent systems attribute the same trait, reinforcement increases.
 
-TraitStrength =
+TraitStrength =  
 SupportingSystems / ActiveSystems
 
-High convergence = reinforced archetype.
-Low convergence = distributed identity.
-Conflict = internal tension mapping.
-
----
-
-## 5. Meta-Trait Aggregation Layer
-
-All systems map to unified trait categories:
-
-- Leadership
-- Analytical Thinking
-- Emotional Depth
-- Creativity
-- Discipline
-- Intuition
-- Stability
-- Risk Orientation
-- Social Expression
-- Power Dynamics
-
-This creates cross-domain comparability.
+Agreement across systems increases structural reinforcement.
 
 ---
 
@@ -131,52 +109,76 @@ This creates cross-domain comparability.
 
 Confidence depends on:
 
-- Number of active systems
-- Completeness of birth data
-- Resolution depth (e.g., Moon/Nakshatra vs Sun only)
+- Number of active systems  
+- Completeness of birth data  
+- Resolution depth (Moon, Nakshatra, etc.)  
 
-CAF explicitly separates:
-Compatibility Strength from Confidence Strength.
-
----
-
-# Intended Use
-
-CAF is designed to:
-
-- Guide development of fate-based models
-- Provide structural grounding for compatibility engines
-- Assist in symbolic system synthesis
-- Offer reproducible alignment theory
-- Serve as a meta-framework for future AI-assisted analysis
+Compatibility Strength and Confidence Strength are calculated separately.
 
 ---
 
-# Non-Claims
+# Changelog
 
-CAF does not claim:
+## v1.0.0 — Initial Theoretical Specification
 
-- Empirical scientific validation
-- Predictive certainty
-- Deterministic destiny modeling
-
-It is a structured symbolic convergence theory.
-
----
-
-# Future Expansion
-
-Possible expansions include:
-
-- Empirical dataset calibration
-- Statistical reinforcement analysis
-- Trait clustering validation
-- Probabilistic convergence modeling
-- Machine-assisted weighting refinement
+- Defined multi-domain symbolic aggregation structure  
+- Established normalized and non-normalized models  
+- Formalized Multi-System Alignment Theory (MSA)  
+- Defined unified meta-trait categories  
+- Implemented domain independence principle  
+- Established compatibility tier structure  
+- Created reproducible framework for expansion  
 
 ---
 
-# Version
+# Roadmap
 
-CAF v1.0  
-Initial theoretical specification of cross-domain symbolic convergence modeling.
+## v1.1.0 — Literature Refinement Phase
+
+Planned improvements based on structured analysis of authoritative texts, including:
+
+- Western Astrology refinement (Woolfolk, Goodman-style structural comparisons)  
+- Vedic compatibility expansion (Ashtakoota depth, Nakshatra resolution)  
+- Chinese Zodiac matrix enhancement (traditional elemental cycle reinforcement)  
+- Numerology pair reinforcement based on classical interpretations  
+- Mayan glyph interaction refinement  
+- Celtic and Native system archetype refinement  
+- Egyptian decan mythological alignment calibration  
+
+This phase will improve:
+
+- Pairwise compatibility matrices  
+- Trait mapping granularity  
+- Weight calibration logic  
+- Conflict zone resolution  
+
+---
+
+## v2.0.0 — Convergence Optimization Phase
+
+- Cross-text consensus weighting
+- Empirical feedback calibration (if datasets available)
+- Structural conflict detection layer
+- Confidence decay modeling
+- Trait clustering analysis
+
+---
+
+# Attribution
+
+Convergent Archetype Framework (CAF)  
+Created by Kevin Mahan  
+Las Vegas, Nevada  
+repos@khalisti.ai  
+
+---
+
+# Disclaimer
+
+CAF aggregates symbolic classification systems.
+
+It does not claim empirical scientific validation.
+
+It is a structured theoretical convergence model designed for reproducible symbolic analysis and future refinement.
+
+---
