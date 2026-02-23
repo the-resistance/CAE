@@ -1,90 +1,116 @@
-# Convergent Archetype Engine (CAE)
+# Convergent Archetype Framework (CAF)
 
-## Multi-System Astrology Compatibility & Trait Convergence Framework
+## A Multi-System Symbolic Convergence Theory
 
-Convergent Archetype Engine (CAE) is a deterministic, modular compatibility and personality convergence engine that aggregates multiple astrology and symbolic systems into a unified, quantifiable model.
+Convergent Archetype Framework (CAF) is a theoretical meta-model designed to aggregate multiple symbolic classification systems into a unified structure for compatibility and trait convergence analysis.
 
-Rather than relying on a single horoscope system, CAE analyzes cross-domain alignment across:
+This framework does not implement code.
 
-- Western Astrology (Sun, Moon, Rising, Venus/Mars)
-- Vedic Astrology (Rasi, Nakshatra, Ashtakoota)
+It defines:
+
+- Structured scoring logic
+- Cross-system weighting theory
+- Trait convergence methodology
+- Normalized vs non-normalized modeling approaches
+- Confidence calibration based on data completeness
+
+CAF is intended as a guiding architecture for researchers, model builders, and system designers developing fate models, compatibility systems, or symbolic convergence engines.
+
+---
+
+# Purpose
+
+Most symbolic systems (Western astrology, Vedic astrology, Chinese zodiac, numerology, etc.) operate independently.
+
+CAF proposes:
+
+Cross-system agreement increases archetypal reinforcement.
+
+Cross-system disagreement identifies tension zones.
+
+Rather than choosing one system as dominant, CAF treats each as an independent classifier and measures convergence across them.
+
+---
+
+# Systems Included
+
+CAF supports theoretical aggregation across:
+
+- Western Astrology
+- Vedic Astrology (Jyotish)
 - Chinese Zodiac
-- Numerology (Life Path)
+- Numerology
 - Mayan Tzolkin
-- Celtic Tree Astrology
-- Native American Totem Systems
-- Egyptian Decan Archetypes
+- Celtic Tree System
+- Native Totem Systems
+- Egyptian Archetypes
 
-The engine calculates both compatibility scores and trait convergence reinforcement across independent symbolic classifiers.
-
----
-
-# Why This Exists
-
-Most astrology tools rely on one system.
-
-CAE treats each symbolic system as an independent classifier and measures:
-
-- Cross-system agreement (signal)
-- Cross-system conflict (noise)
-- Trait reinforcement probability
-- Compatibility structural alignment
-
-The result is a structured, reproducible meta-alignment engine.
+Additional systems may be appended without structural modification.
 
 ---
 
-# Core Features
+# Core Theoretical Components
 
-- Multi-domain compatibility scoring
-- Trait convergence engine
-- Normalized and non-normalized models
-- Weighted domain logic
-- Partial birth data handling
-- Deterministic reproducibility
-- Confidence scoring system
-- Modular expansion capability
+## 1. Domain Independence Principle
+
+Each symbolic system functions as an independent classification engine.
+
+No domain is assumed superior.
+
+Each produces:
+- Compatibility score
+- Trait mapping
+- Confidence factor
 
 ---
 
-# Architecture Overview
+## 2. Normalized Convergence Model
 
-## 1. Domain Engine
+Used when:
+- Data completeness varies
+- Domains differ in structural resolution
 
-Each system outputs:
-
-- Compatibility Score (0–10)
-- Trait Vector (meta-trait mapping)
-- Confidence Factor
-
-## 2. Normalized Model
-
-Weighted average across active domains.
+Formula (conceptual):
 
 FinalScore =
-Σ (DomainScore × DomainWeight) /
-Σ (ActiveDomainWeights)
+Sum(DomainScore × DomainWeight) /
+Sum(ActiveDomainWeights)
 
-Used when data is partial.
+Prevents dominance from incomplete systems.
 
-## 3. Non-Normalized Model
+---
 
-Raw weighted sum.
+## 3. Non-Normalized Structural Model
 
-Used when full birth data available.
+Used when:
+- Full data is present
+- Domain confidence is high
+
+Formula:
+
+FinalRawScore =
+Sum(DomainScore × DomainWeight)
+
+Preserves structural signal strength.
+
+---
 
 ## 4. Multi-System Alignment Theory (MSA)
+
+If multiple independent systems attribute the same trait, reinforcement increases.
 
 TraitStrength =
 SupportingSystems / ActiveSystems
 
-Cross-domain convergence increases archetypal reinforcement.
+High convergence = reinforced archetype.
+Low convergence = distributed identity.
+Conflict = internal tension mapping.
 
 ---
 
-# Meta-Trait Categories
+## 5. Meta-Trait Aggregation Layer
 
-Each domain maps signs/archetypes to unified traits:
+All systems map to unified trait categories:
 
 - Leadership
 - Analytical Thinking
@@ -93,45 +119,64 @@ Each domain maps signs/archetypes to unified traits:
 - Discipline
 - Intuition
 - Stability
-- Risk Tolerance
-- Social Expressiveness
-- Power Orientation
+- Risk Orientation
+- Social Expression
+- Power Dynamics
 
-Traits are aggregated across systems to detect reinforced patterns.
-
----
-
-# Scoring Tiers
-
-90–100: Structural Convergence  
-80–89: Strong Alignment  
-70–79: Viable Alignment  
-60–69: Conditional  
-50–59: Low Harmony  
-<50: High Friction  
+This creates cross-domain comparability.
 
 ---
 
-# Data Requirements
+# Confidence Model
 
-Required:
-- Birth Date
+Confidence depends on:
 
-Optional (improves precision):
-- Birth Time
-- Birth Location
-- Full Name (advanced numerology)
+- Number of active systems
+- Completeness of birth data
+- Resolution depth (e.g., Moon/Nakshatra vs Sun only)
 
----
-
-# Example Use Cases
-
-- Astrology-based compatibility engine
-- Personality convergence mapping
-- Archetype reinforcement detection
-- Talent inclination clustering
-- Experimental symbolic meta-analysis
+CAF explicitly separates:
+Compatibility Strength from Confidence Strength.
 
 ---
 
-# Repository Structure (Recommended)
+# Intended Use
+
+CAF is designed to:
+
+- Guide development of fate-based models
+- Provide structural grounding for compatibility engines
+- Assist in symbolic system synthesis
+- Offer reproducible alignment theory
+- Serve as a meta-framework for future AI-assisted analysis
+
+---
+
+# Non-Claims
+
+CAF does not claim:
+
+- Empirical scientific validation
+- Predictive certainty
+- Deterministic destiny modeling
+
+It is a structured symbolic convergence theory.
+
+---
+
+# Future Expansion
+
+Possible expansions include:
+
+- Empirical dataset calibration
+- Statistical reinforcement analysis
+- Trait clustering validation
+- Probabilistic convergence modeling
+- Machine-assisted weighting refinement
+
+---
+
+# Version
+
+CAF v1.0  
+Initial theoretical specification of cross-domain symbolic convergence modeling.
