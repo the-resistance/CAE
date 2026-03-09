@@ -164,16 +164,20 @@ This phase will improve:
 
 ---
 
-# Attribution
+## Attribution
 
-Convergent Archetype Framework (CAF)  
+Convergent Archetype Framework / Convergent Archetype Engine (CAF/CAE)  
 Created by Kevin Mahan  
-Las Vegas, Nevada  
-repos@khalisti.ai  
+Project attribution: Khalisti.ai  
+Contact: repos@khalisti.ai  
+
+If you use, adapt, or redistribute this framework, please retain attribution to
+Khalisti.ai, Kevin Mahan, and the original repository in source distributions,
+documentation, credits, or another customary attribution location.
 
 ---
 
-# Disclaimer
+## Disclaimer
 
 CAF aggregates symbolic classification systems.
 
@@ -182,3 +186,46 @@ It does not claim empirical scientific validation.
 It is a structured theoretical convergence model designed for reproducible symbolic analysis and future refinement.
 
 ---
+
+## Use Cases
+
+CAF/CAE can be explored for structured compatibility and interaction analysis across multiple symbolic systems, including:
+- dating and matchmaking research
+- interpersonal compatibility experiments
+- personality convergence analysis
+- archetype clustering across symbolic systems
+- checkout / first-contact interaction studies
+- pairwise comparison experiments
+- trait reinforcement and conflict mapping
+- exploratory studies involving successful, high-visibility, or famous individuals
+- cross-system attribute correlation research
+
+---
+
+## Keywords
+
+compatibility framework, matchmaking model, dating compatibility, personality engine,
+archetype analysis, symbolic scoring model, interpersonal analytics, trait convergence,
+cross-system compatibility, astrology compatibility framework, personality mapping,
+interaction scoring, convergent archetype engine, khalisti.ai
+
+---
+
+## Implementation Status
+
+This repository currently defines a structured theoretical framework, scoring specification,
+and documentation base. It should not be represented as a fully implemented production
+engine unless executable components, validated test cases, reproducible benchmarks, and
+documented data ingestion pipelines are added.
+
+---
+
+## Astronomical Source Requirement
+
+Astronomical calculations that require planetary or lunar positions must use authoritative
+ephemeris data. Preferred source: NASA JPL Horizons API / JPL ephemerides. If
+ephemeris-backed values are unavailable, the model must mark the result as incomplete
+rather than estimating unsupported astronomical values.
+
+---
+
