@@ -1,34 +1,12 @@
 Convergent Archetype Framework / Convergent Archetype Engine (CAF/CAE)
-Copyright (c) 2026 Kevin Mahan / Khalisti.ai
+Copyright (c) 2026 Kevin Mahan
+Attribution and project identity: Khalisti.ai
+Contact: repos@khalisti.ai
+Repository: https://github.com/the-resistance/CAE
 
----
+This repository is licensed under the MIT License.
 
-Primary Attribution:
-  Khalisti.ai
-  https://khalisti.ai
-  repos@khalisti.ai
-
-Author:
-  Kevin Mahan
-  Las Vegas, Nevada
-  repos@khalisti.ai
-
-Canonical Repository:
-  https://github.com/the-resistance/CAE
-
----
-
-This software and its associated documentation, specifications, and theoretical
-frameworks are the intellectual work of Kevin Mahan, developed under the
-Khalisti.ai project umbrella.
-
-All authorship, attribution references, and framework specifications must be
-preserved in any derivative works, distributions, or implementations that
-incorporate this framework.
-
-Attribution language pointing to Khalisti.ai must be maintained in any
-README, NOTICE, or documentation accompanying derivative works.
-
----
-
-Distributed under the MIT License. See LICENSE for full license text.
+Attribution request:
+If you use, adapt, or redistribute this work, please retain attribution to
+Khalisti.ai, Kevin Mahan, and the original repository in source distributions,
+documentation, credits, or another customary attribution location.
